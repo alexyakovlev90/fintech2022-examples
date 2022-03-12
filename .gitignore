@@ -1,0 +1,14 @@
+*.class
+*.iml
+.idea/
+out/
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+logs/
+/target/
+/*/target/
+**/.flattened-pom.xml
+**/.DS_Store
